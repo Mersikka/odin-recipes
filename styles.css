@@ -1,0 +1,19 @@
+
+*{
+    background-color: lightgreen;
+}
+
+.header {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.align_center {
+    text-align: center;
+}
+
+.recipe_link {
+    background-color: turquoise;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
